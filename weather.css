@@ -20,7 +20,7 @@ body{
 }
 
 .search{
-    width: 50%;
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -47,8 +47,8 @@ body{
     outline: 0;
     background: #ebfffc;
     border-radius: 50px;
-    width: 40px;
-    height: 20px;
+    width: 30px;
+    height: 30px;
     cursor: pointer;
 }
 
